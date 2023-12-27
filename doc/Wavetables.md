@@ -59,4 +59,4 @@ Creating 'newC.wt' with 45 tables of length 128
 
 ## I wish this did x, y, or z
 
-Hop on [Discord](https://raw.githubusercontent.com/surge-synthesizer/surge-synthesizer.github.io/master/_includes/discord_invite_link), [open an issue](https://github.com/surge-synthesizer/surge/issues/new), or crack open a python book and fire in a pull request! We're all ears on this stuff.
+Hop on [Discord](https://discord.gg/aFQDdMV), [open an issue](https://github.com/surge-synthesizer/surge/issues/new), or crack open a python book and fire in a pull request! We're all ears on this stuff.
